@@ -1,5 +1,5 @@
-## Astrea
-### Formally known as Sonic49
+# Astrea
+### (formally known as Sonic49)
 
 Hi! I'm just a random person on here. I'm far from being the most skilled at programming, but I make a bunch of stuff in Python. It's mostly just Discord bots, but sometimes I expand out a bit and dip my toes into other places, too.
 
