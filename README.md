@@ -1,5 +1,4 @@
 # Astrea
-### (formally known as Sonic49)
 
 Hi! I'm just a random person on here. I'm far from being the most skilled at programming, but I make a bunch of stuff in Python. It's mostly just Discord bots, but sometimes I expand out a bit and dip my toes into other places, too.
 
@@ -11,5 +10,5 @@ Feel free to take a look around. If you need to contact me, I'd prefer Discord (
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astrea49&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Astrea49">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrea49&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrea49&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive&theme=dark" />
 </a>
