@@ -1,14 +1,27 @@
-# Astrea
+# Astrea, the Star Maiden
 
-Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a *bunch* of stuff in Python. It's *mostly* just Discord bots, but sometimes I expand out a bit and dip my toes into other places, too.
+Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a *bunch* of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
 
-My main project as of right now is [Seraphim](https://github.com/Astrea49/Seraphim-Bot), and it really should be no surprise. It's my multi-purpose bot that is meant to do what other bots do not or fail to do. I'll admit that while it *is* public, it also isn't being advertised everywhere as I do not have the money for a host to keep it running if it expands beyond a certain point. Kinda sucks, huh?
+Most people know me for my contributions to [`Dis-Snek`](https://github.com/Discord-Snake-Pit/Dis-Snek), an extensible and fast Discord Python library. I'm a maintainer there, and I'm also currently working on improving message/prefix commands, which you can see [here with `molter`](https://github.com/Discord-Snake-Pit/molter).
 
-Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (Astrea#7171) since I'm *very* active on there, but I also do have a [Twitter](https://twitter.com/Astrea49) that I check from time to time. Otherwise, enjoy!
+Of course, I contribute to other libraries, too! [Many](https://github.com/Pycord-Development/pycord/pull/63) [`discord.py`](https://github.com/nextcord/nextcord/pull/147) [forks](https://github.com/iDevision/enhanced-discord.py/pull/52) have at least one PR from me. I've also worked extensively with [`interactions.py`](https://github.com/interactions-py/library), having contributed there in the past and [porting `molter`](https://github.com/interactions-py/molter) to it.
 
-<a href="https://github.com/Astrea49">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astrea49&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/Astrea49">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrea49&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive&theme=dark" />
-</a>
+Other than that, I also maintain a couple of bots here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
+These include:
+- [Seraphim](https://github.com/Astrea49/Seraphim-Bot), the bot that does what other Discord bots don't (or do badly).
+- [Realms Playerlist Bot](https://github.com/Astrea49/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left.
+- [Ultimate Investigator](https://github.com/Astrea49/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
+- Some server specific ones that I won't link here, but they're like a second away from being looked at.
+
+Beyong that, there's also miscellaneous projects like [my time zone getter](https://github.com/Astrea49/GetTimeZone) and [my fork of `py-mcws`](https://github.com/Astrea49/py-mcws).
+
+Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (Astrea#7171) since I'm *very* active on there. Otherwise, enjoy!
+
+<p align="center">
+  <a href="https://github.com/Astrea49">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astrea49&show_icons=true&hide_rank=true&theme=dark" />
+  </a>
+  <a href="https://github.com/Astrea49">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrea49&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive&theme=dark" />
+  </a>
+</p>
