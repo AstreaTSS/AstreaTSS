@@ -4,7 +4,9 @@ Hey! I'm just a random girl on here. I'm *far* from being the most skilled at pr
 
 Most people know me for my contributions to [`Dis-Snek`](https://github.com/Discord-Snake-Pit/Dis-Snek), an extensible and fast Discord Python library. I'm a maintainer there, and I'm also currently working on improving message/prefix commands, which you can see [here with `molter`](https://github.com/Discord-Snake-Pit/molter).
 
-Of course, I contribute to other libraries, too! [Many](https://github.com/Pycord-Development/pycord/pull/63) [`discord.py`](https://github.com/nextcord/nextcord/pull/147) [forks](https://github.com/iDevision/enhanced-discord.py/pull/52) have at least one PR from me. I've also worked extensively with [`interactions.py`](https://github.com/interactions-py/library), having contributed there in the past and [porting `molter`](https://github.com/interactions-py/molter) to it.
+I've also worked extensively with [`interactions.py`](https://github.com/interactions-py/library), being a core developer (though I mainly serve in an advisory role) and maintaining [a version of `molter`](https://github.com/interactions-py/molter) for it just for fun.
+
+Of course, I contribute to other Discord Python places, too! [Many](https://github.com/Pycord-Development/pycord/pull/63) [`discord.py`](https://github.com/nextcord/nextcord/pull/147) [forks](https://github.com/iDevision/enhanced-discord.py/commit/fcb2d707a1445fefb22311dc5ffe1b47d0b9bf55) have at least one PR from me. I'm also willing to work with many other wrappers if my interest is ever captured by them, as long as they aren't rude.
 
 Other than that, I also maintain a couple of bots here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
 These include:
