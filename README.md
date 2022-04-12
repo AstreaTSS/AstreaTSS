@@ -1,4 +1,4 @@
-# Astrea, the Star Maiden
+# Astrea, the Star Sorceress
 
 Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a *bunch* of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
 
