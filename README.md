@@ -2,7 +2,7 @@
 
 Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a *bunch* of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
 
-Most people know me for my contributions to [`Dis-Snek`](https://github.com/Discord-Snake-Pit/Dis-Snek), an extensible and fast Discord Python library. I'm a maintainer there, and I'm also currently working on improving message/prefix commands, which you can see [here with `molter`](https://github.com/Discord-Snake-Pit/molter).
+Most people know me for my contributions to [`NAFF`](https://github.com/NAFTeam/NAFF), an extensible, easy to use, and fast Discord Python library. I'm a maintainer there, largely helping out with prefixed commands and quality-of-life features, but I tend to jump around on what exactly I'm doing depending on my interests.
 
 I've also worked extensively with [`interactions.py`](https://github.com/interactions-py/library), being a core developer (though I mainly serve in an advisory role) and maintaining [a version of `molter`](https://github.com/interactions-py/molter) for it just for fun.
 
