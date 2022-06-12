@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25420078/173216464-7e7e2435-95b7-4ee5-85bd-413088a2b4be.png" alt="Astrea, the Star Sorceress"/>
 </p>
-<h3 align="center">Pronouns: she/her</h1>
+<h2 align="center">Pronouns: She/Her | <a href="https://astrea49.carrd.co/">Website</a></h1>
 
-Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a *bunch* of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
+Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a bunch of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
 
 Most people know me for my contributions to [`NAFF`](https://github.com/NAFTeam/NAFF), an extensible, easy to use, and fast Discord Python library. I'm a maintainer there, largely helping out with prefixed commands and quality-of-life features, but I tend to jump around on what exactly I'm doing depending on my interests.
 
@@ -21,6 +21,11 @@ These include:
 Beyond that, there's also miscellaneous projects like [my time zone getter](https://github.com/Astrea49/GetTimeZone) and [my fork of `py-mcws`](https://github.com/Astrea49/py-mcws).
 
 Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (Astrea#7171) since I'm *very* active on there. Otherwise, enjoy!
+
+### Art Credit:
+- Icon personally made by [Ronk.](https://twitter.com/BonkRonk) Thank you so much!
+- Banner background by [u/PixelDanc3r on Reddit.](https://www.reddit.com/r/PixelArt/comments/os688k/a_little_animation_of_my_old_drawing/)
+
 
 <p align="center">
   <a href="https://github.com/Astrea49">
