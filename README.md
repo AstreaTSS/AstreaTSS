@@ -29,9 +29,9 @@ Feel free to take a look around my repos! If you need to contact me, I'd prefer 
 
 <p align="center">
   <a href="https://github.com/Astrea49">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astrea49&show_icons=true&hide_rank=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astrea49&show_icons=true&hide_rank=true&theme=material-palenight" />
   </a>
   <a href="https://github.com/Astrea49">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrea49&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrea49&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive&theme=material-palenight" />
   </a>
 </p>
