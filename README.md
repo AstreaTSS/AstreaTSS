@@ -1,4 +1,7 @@
-# Astrea, the Star Sorceress
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25420078/173216464-7e7e2435-95b7-4ee5-85bd-413088a2b4be.png" alt="Astrea, the Star Sorceress"/>
+</p>
+<h3 align="center">Pronouns: she/her</h1>
 
 Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a *bunch* of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
 
