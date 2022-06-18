@@ -26,6 +26,9 @@ Feel free to take a look around my repos! If you need to contact me, I'd prefer 
 - Icon personally made by [Ronk.](https://twitter.com/BonkRonk) Thank you so much!
 - Banner background by [u/PixelDanc3r on Reddit.](https://www.reddit.com/r/PixelArt/comments/os688k/a_little_animation_of_my_old_drawing/)
 
+### Other Links:
+* [Join Support/Hangout Server](https://discord.gg/NSdetwGjpK)
+* [Support me on Ko-fi](https://ko-fi.com/astrea49)
 
 <p align="center">
   <a href="https://github.com/Astrea49">
