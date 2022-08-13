@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25420078/173216464-7e7e2435-95b7-4ee5-85bd-413088a2b4be.png" alt="Astrea, the Star Sorceress"/>
 </p>
-<h2 align="center">Pronouns: She/Her | <a href="https://astrea49.carrd.co/">Website</a></h1>
+<h2 align="center">Pronouns: she/her, fae/faer, flor/flora | <a href="https://astrea49.carrd.co/">Website</a></h2>
 
 Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a bunch of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
 
@@ -13,8 +13,8 @@ Of course, I contribute to other Discord Python places, too! [Many](https://gith
 
 Other than that, I also maintain a couple of bots here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
 These include:
-- [Seraphim](https://github.com/Astrea49/Seraphim-Bot), the bot that does what other Discord bots don't (or do badly).
 - [Realms Playerlist Bot](https://github.com/Astrea49/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left.
+- [Seraphim](https://github.com/Astrea49/Seraphim-Bot), the bot that does what other Discord bots don't (or do badly).
 - [Ultimate Investigator](https://github.com/Astrea49/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
 - Some server specific ones that I won't link here, but they're like a second away from being looked at.
 
