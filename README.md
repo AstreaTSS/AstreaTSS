@@ -17,7 +17,7 @@ These include:
 - [Ultimate Investigator](https://github.com/Astrea49/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
 - Some server specific ones that I won't link here, but they're like a second away from being looked at.
 
-Beyond that, there's also miscellaneous projects like [my time zone getter](https://github.com/Astrea49/GetTimeZone) and [my fork of `py-mcws`](https://github.com/Astrea49/py-mcws).
+Beyond that, there's also miscellaneous projects like [my time zone getter](https://github.com/Astrea49/GetTimeZone) and [my fork of `mc-texture-changes`](https://github.com/Astrea49/mc-texture-changes).
 
 Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (Astrea#7171) since I'm *very* active on there. Otherwise, enjoy!
 
