@@ -14,7 +14,6 @@ Of course, I contribute to other Discord Python places, too! [Many](https://gith
 Other than that, I also maintain a couple of bots here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
 These include:
 - [Realms Playerlist Bot](https://github.com/Astrea49/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left.
-- [Seraphim](https://github.com/Astrea49/Seraphim-Bot), the bot that does what other Discord bots don't (or do badly).
 - [Ultimate Investigator](https://github.com/Astrea49/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
 - Some server specific ones that I won't link here, but they're like a second away from being looked at.
 
