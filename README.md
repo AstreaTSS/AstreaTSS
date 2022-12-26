@@ -13,11 +13,11 @@ Of course, I contribute to other Discord Python places, too! [Many](https://gith
 
 Other than that, I also maintain a couple of bots here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
 These include:
-- [Realms Playerlist Bot](https://github.com/Astrea49/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left.
-- [Ultimate Investigator](https://github.com/Astrea49/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
+- [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left.
+- [Ultimate Investigator](https://github.com/AstreaTSS/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
 - Some server specific ones that I won't link here, but they're like a second away from being looked at.
 
-Beyond that, there's also miscellaneous projects like [my time zone getter](https://github.com/Astrea49/GetTimeZone) and [my fork of `mc-texture-changes`](https://github.com/Astrea49/mc-texture-changes).
+Beyond that, there's also miscellaneous projects like [my time zone getter](https://github.com/AstreaTSS/GetTimeZone) and [my fork of `mc-texture-changes`](https://github.com/AstreaTSS/mc-texture-changes).
 
 Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (Astrea#7171) since I'm *very* active on there. Otherwise, enjoy!
 
@@ -27,13 +27,13 @@ Feel free to take a look around my repos! If you need to contact me, I'd prefer 
 
 ### Other Links:
 * [Join Support/Hangout Server](https://discord.gg/NSdetwGjpK)
-* [Support me on Ko-fi](https://ko-fi.com/astrea49)
+* [Support me on Ko-fi](https://ko-fi.com/astreatss)
 
 <p align="center">
-  <a href="https://github.com/Astrea49">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Astrea49&show_icons=true&hide_rank=true&theme=material-palenight" />
+  <a href="https://github.com/AstreaTSS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AstreaTSS&show_icons=true&hide_rank=true&theme=material-palenight" />
   </a>
-  <a href="https://github.com/Astrea49">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrea49&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive&theme=material-palenight" />
+  <a href="https://github.com/AstreaTSS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstreaTSS&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive&theme=material-palenight" />
   </a>
 </p>
