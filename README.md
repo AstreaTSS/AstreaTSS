@@ -5,9 +5,7 @@
 
 Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a bunch of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
 
-Most people know me for my contributions to [`NAFF`](https://github.com/NAFTeam/NAFF), an extensible, easy to use, and fast Discord Python library. I'm a maintainer there, largely helping out with prefixed (text) commands and quality-of-life features, but I tend to jump around on what exactly I'm doing depending on my interests. I also maintain [`tansy`](https://github.com/AstreaTSS/tansy), which are a set of experiments for NAFF - currently, it includes a different way of declaring slash commands in NAFF that some users may like.
-
-I've also worked extensively with [`interactions.py`](https://github.com/interactions-py/library), being a developer and maintaining [a version of `molter`](https://github.com/interactions-py/molter) (a framework for prefixed commands) for it just for fun.
+Most people know me for my contributions to [`interactions.py`](https://github.com/interactions-py/library), an extensible, easy to use, and fast Discord Python library. I'm a maintainer there, largely helping out with prefixed (text) commands and quality-of-life features, but I tend to jump around on what exactly I'm doing depending on my interests. I also maintain [`tansy`](https://github.com/AstreaTSS/tansy), which are a set of experiments for interactions.py - currently, it includes a different way of declaring slash commands in interactions.py that some users may like.
 
 Of course, I contribute to other Discord Python places, too! [Many](https://github.com/Pycord-Development/pycord/pull/63) [`discord.py`](https://github.com/nextcord/nextcord/pull/147) [forks](https://github.com/iDevision/enhanced-discord.py/commit/fcb2d707a1445fefb22311dc5ffe1b47d0b9bf55) have at least one PR from me. I'm also willing to work with many other wrappers if my interest is ever captured by them, as long as they aren't rude.
 
