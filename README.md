@@ -18,7 +18,7 @@ These include:
 
 Beyond that, there's also miscellaneous projects like [my time zone getter](https://github.com/AstreaTSS/GetTimeZone) and [my fork of `mc-texture-changes`](https://github.com/AstreaTSS/mc-texture-changes).
 
-Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (Astrea#7171) since I'm *very* active on there. Otherwise, enjoy!
+Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (@astreatss) since I'm *very* active on there. Otherwise, enjoy!
 
 ### Art Credit:
 - Icon personally made by [Ronk.](https://twitter.com/BonkRonk) Thank you so much!
