@@ -3,22 +3,20 @@
 </p>
 <h2 align="center">Pronouns: She/her | <a href="https://astrea.cc/">Website</a></h2>
 
-Hey! I'm just a random girl on here. I'm *far* from being the most skilled at programming, but I make a bunch of stuff in Python. It's *mostly* just Discord bots and Discord Python libraries, but sometimes I expand out a bit and dip my toes into other places, too.
+Hello! I'm Astrea, an open source developer who develops tools and bots with (largely) Python.
 
-Most people know me for my contributions to [`interactions.py`](https://github.com/interactions-py/library), an extensible, easy to use, and fast Discord Python library. I'm a maintainer there, largely helping out with prefixed (text) commands and quality-of-life features, but I tend to jump around on what exactly I'm doing depending on my interests. I also maintain [`tansy`](https://github.com/AstreaTSS/tansy), which are a set of experiments for interactions.py - currently, it includes a different way of declaring slash commands in interactions.py that some users may like.
+Most people know me either from making the [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left, or from my contributions to [`interactions.py`](https://github.com/interactions-py/library), an extensible, easy to use, and fast Discord Python library.
 
-Of course, I contribute to other Discord Python places, too! [Many](https://github.com/Pycord-Development/pycord/pull/63) [`discord.py`](https://github.com/nextcord/nextcord/pull/147) [forks](https://github.com/iDevision/enhanced-discord.py/commit/fcb2d707a1445fefb22311dc5ffe1b47d0b9bf55) have at least one PR from me. I'm also willing to work with many other wrappers if my interest is ever captured by them, as long as they aren't rude.
-
-Other than that, I also maintain a couple of bots here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
+Other than that, I also maintain a couple of other projects here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
 These include:
 - [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left.
 - [Ultimate Investigator](https://github.com/AstreaTSS/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
 - [Cherub](https://github.com/AstreaTSS/Cherub), an experimental utility bot to do tasks usually not found in other bots.
-- Some other ones that I won't link here, but they're like a second away from being looked at.
+- [Tansy](https://github.com/AstreaTSS/tansy), which are a set of experiments for interactions.py - currently, it includes a different way of declaring slash commands in interactions.py that some users may like.
+- [My time zone getter](https://github.com/AstreaTSS/GetTimeZone), a website to get your timezone quickly.
+- [My fork of `mc-texture-changes`](https://github.com/AstreaTSS/mc-texture-changes), which automatically tracks and posts updates to textures for each update in Minecraft.
 
-Beyond that, there's also miscellaneous projects like [my time zone getter](https://github.com/AstreaTSS/GetTimeZone) and [my fork of `mc-texture-changes`](https://github.com/AstreaTSS/mc-texture-changes).
-
-Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (@astreatss) since I'm *very* active on there. Otherwise, enjoy!
+Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (@astreatss) since I'm very active on there, though here is fine too. Otherwise, enjoy!
 
 ### Art Credit:
 - Icon personally made by [Ronk.](https://twitter.com/BonkRonk) Thank you so much!
