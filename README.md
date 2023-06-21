@@ -5,16 +5,14 @@
 
 Hello! I'm Astrea, an open source developer who develops tools and bots with (largely) Python.
 
-Most people know me either from making the [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left, or from my contributions to [`interactions.py`](https://github.com/interactions-py/library), an extensible, easy to use, and fast Discord Python library.
+Most people know me either from making the [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing various statistics related to player join/leaves, or from my contributions to [interactions.py](https://github.com/interactions-py/library), an extensible, easy to use, and fast Discord Python library.
 
-Other than that, I also maintain a couple of other projects here and there. They're all pretty small and have somewhat niche usages, but they're the main reason why I got into Discord Python library development in the first place.
-These include:
-- [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing a log of players who have joined and left.
+Other than that, I also maintain a couple of other projects here and there. These include (but are not limited to):
 - [Ultimate Investigator](https://github.com/AstreaTSS/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
 - [Cherub](https://github.com/AstreaTSS/Cherub), an experimental utility bot to do tasks usually not found in other bots.
-- [Tansy](https://github.com/AstreaTSS/tansy), which are a set of experiments for interactions.py - currently, it includes a different way of declaring slash commands in interactions.py that some users may like.
+- [Tansy](https://github.com/AstreaTSS/tansy), which provides different ways of declaring slash commands in interactions.py that some users may like.
 - [My time zone getter](https://github.com/AstreaTSS/GetTimeZone), a website to get your timezone quickly.
-- [My fork of `mc-texture-changes`](https://github.com/AstreaTSS/mc-texture-changes), which automatically tracks and posts updates to textures for each update in Minecraft.
+- [My fork of mc-texture-changes](https://github.com/AstreaTSS/mc-texture-changes), which automatically tracks and posts updates to textures for each update in Minecraft.
 
 Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (@astreatss) since I'm very active on there, though here is fine too. Otherwise, enjoy!
 
