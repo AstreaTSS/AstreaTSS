@@ -10,11 +10,14 @@ Most people know me either from making the [Realms Playerlist Bot](https://githu
 Other than that, I also maintain a couple of other projects here and there. These include (but are not limited to):
 - [Ultimate Investigator](https://github.com/AstreaTSS/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
 - [Cherub](https://github.com/AstreaTSS/Cherub), an experimental utility bot to do tasks usually not found in other bots.
-- [Tansy](https://github.com/AstreaTSS/tansy), which provides different ways of declaring slash commands in interactions.py that some users may like.
-- [My time zone getter](https://github.com/AstreaTSS/GetTimeZone), a website to get your timezone quickly.
-- [My fork of mc-texture-changes](https://github.com/AstreaTSS/mc-texture-changes), which automatically tracks and posts updates to textures for each update in Minecraft.
+- [Elytra (MS)](https://github.com/Astrea-Stellarium-Labs/elytra-ms), a Python Library for various Microsoft APIs, including the Xbox and Bedrock Realms APIs. 
+- [Tansy](https://github.com/Astrea-Stellarium-Labs/tansy), which provides different ways of declaring slash commands in interactions.py that some users may like.
+- [My time zone getter](https://github.com/Astrea-Stellarium-Labs/GetTimeZone), a website to get your timezone quickly.
+- [My fork of mc-texture-changes](https://github.com/Astrea-Stellarium-Labs/mc-texture-changes), which automatically tracks and posts updates to textures for each update in Minecraft.
 
-Feel free to take a look around my repos! If you need to contact me, I'd prefer Discord (@astreatss) since I'm very active on there, though here is fine too. Otherwise, enjoy!
+Feel free to take a look around my repos! Note that some of them can be found at [my organization, Astrea's Stellarium Labs](https://github.com/Astrea-Stellarium-Labs).
+
+If you need to contact me, I'd prefer Discord (@astreatss) since I'm very active on there, though here is fine too. Otherwise, enjoy!
 
 _Icon personally made by [Ronk.](https://twitter.com/BonkRonk) Banner background by [u/PixelDanc3r on Reddit.](https://www.reddit.com/r/PixelArt/comments/os688k/a_little_animation_of_my_old_drawing/)_
 
