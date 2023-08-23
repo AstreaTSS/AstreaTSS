@@ -5,7 +5,9 @@
 
 Hello! I'm Astrea, an open source developer who develops tools and bots with (largely) Python.
 
-Most people know me either from making the [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing various statistics related to player join/leaves, or from my contributions to [interactions.py](https://github.com/interactions-py/library), an extensible, easy to use, and fast Discord Python library.
+Most people know me either from:
+- Making the [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing various statistics related to player join/leaves...
+- ...or from my contributions to [interactions.py](https://github.com/interactions-py/library), an extensible, easy to use, and fast Discord Python library.
 
 Other than that, I also maintain a couple of other projects here and there. These include (but are not limited to):
 - [Ultimate Investigator](https://github.com/AstreaTSS/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
