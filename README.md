@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25420078/173216464-7e7e2435-95b7-4ee5-85bd-413088a2b4be.png" alt="Astrea, the Star Sorceress"/>
 </p>
-<h2 align="center">Pronouns: She/Her | <a href="https://astrea.cc/">Website</a> | <a href="https://discord.gg/NSdetwGjpK">Support Server</a> | <a href="https://ko-fi.com/astreatss">Ko-Fi</a></h2>
+<h2 align="center"><a href="https://astrea.cc/">Website</a> | <a href="https://discord.gg/NSdetwGjpK">Support Server</a> | <a href="https://ko-fi.com/astreatss">Donate on Ko-Fi</a></h2>
 
 Hello! I'm Astrea, an open source developer who develops tools and bots with (largely) Python.
 
