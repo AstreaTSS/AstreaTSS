@@ -19,7 +19,7 @@ Other than that, I also maintain a couple of other projects here and there. Thes
 
 Feel free to take a look around my repos! Note that some of them can be found at [my organization, Astrea's Stellarium Labs](https://github.com/Astrea-Stellarium-Labs).
 
-If you need to contact me, I'd prefer Discord (@astreatss) since I'm very active on there, though here is fine too. Otherwise, enjoy!
+If you need to contact me, I'd prefer Discord (@astrea.tss) since I'm very active on there, though here is fine too. Otherwise, enjoy!
 
 _Icon personally made by [Ronk.](https://twitter.com/BonkRonk) Banner background by [u/PixelDanc3r on Reddit.](https://www.reddit.com/r/PixelArt/comments/os688k/a_little_animation_of_my_old_drawing/)_
 
