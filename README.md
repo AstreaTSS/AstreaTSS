@@ -10,7 +10,7 @@ Most people know me from:
 - [interactions.py](https://github.com/interactions-py/library) - or, well, my contributions to it - an extensible, easy to use, and fast Discord Python library.
 
 Other than that, I also maintain a couple of other projects here and there. These include (but are not limited to):
-- [Ultimate Investigator](https://github.com/AstreaTSS/UltimateInvestigator), a bot made to help automate investigations during Danganronpa roleplays.
+- [Ultimate Investigator](https://github.com/AstreaTSS/UltimateInvestigator), a bot made to help automate investigations during Danganronpa/Killing Game roleplays.
 - [Cherub](https://github.com/AstreaTSS/Cherub), an experimental utility bot to do tasks usually not found in other bots.
 - [Elytra (MS)](https://github.com/Astrea-Stellarium-Labs/elytra-ms), a Python Library for various Microsoft APIs, including the Xbox and Bedrock Realms APIs. 
 - [Tansy](https://github.com/Astrea-Stellarium-Labs/tansy), which provides different ways of declaring slash commands in interactions.py that some users may like.
