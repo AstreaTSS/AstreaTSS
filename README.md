@@ -6,7 +6,7 @@
 Hello! I'm Astrea, an open source developer who develops tools and bots with (largely) Python.
 
 Most people know me from:
-- [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing various statistics related to player join/leaves...
+- [Realms Playerlist Bot](https://github.com/AstreaTSS/RealmsPlayerlistBot), a bot that helps out owners of Minecraft: Bedrock Edition Realms by showing various statistics related to player join/leaves.
 - [interactions.py](https://github.com/interactions-py/library) - or, well, my contributions to it - an extensible, easy to use, and fast Discord Python library.
 
 Other than that, I also maintain a couple of other projects here and there. These include (but are not limited to):
