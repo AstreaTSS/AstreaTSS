@@ -28,6 +28,6 @@ _Icon personally made by [Ronk.](https://twitter.com/BonkRonk) Banner background
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AstreaTSS&show_icons=true&hide_rank=true&theme=material-palenight&count_private=true" />
   </a>
   <a href="https://github.com/AstreaTSS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstreaTSS&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstreaTSS&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive,FF-Season-1-Archive&theme=material-palenight" />
   </a>
 </p>
