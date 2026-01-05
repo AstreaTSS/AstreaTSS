@@ -16,7 +16,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=material-palenight&count_private=true
-          path: stats.svg
+          path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -24,7 +24,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive,FF-Season-1-Archive&theme=material-palenight
-          path: top-langs.svg
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
