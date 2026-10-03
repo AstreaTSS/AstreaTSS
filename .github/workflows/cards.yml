@@ -8,11 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=material-palenight&count_private=true
@@ -20,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive,DH-Season-9-Archive,FF-Season-1-Archive&theme=material-palenight
